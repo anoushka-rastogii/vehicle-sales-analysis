@@ -1,8 +1,11 @@
 **Vehicle Sales and Market Trends Analysis**
+
 **Project Overview**
+
 This project analyzes vehicle sales trends using Python, providing insights into market behavior, consumer preferences, and demand fluctuations. By leveraging data visualization and forecasting techniques, the analysis helps in understanding key factors influencing vehicle sales.
 
 **Dataset**
+
 The dataset includes vehicle specifications, sales transactions, registration details, and market trends. It consists of attributes such as:
 
 - Vehicle make, model, and year
@@ -16,6 +19,7 @@ The dataset includes vehicle specifications, sales transactions, registration de
 - Odometer readings and pricing details
 
 **Technologies Used**
+
 - Python: Data processing and analysis
 
 - Pandas & NumPy: Data manipulation
@@ -25,6 +29,7 @@ The dataset includes vehicle specifications, sales transactions, registration de
 - Scikit-learn: Forecasting and predictive analysis
 
 **Key Features**
+
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Visualization of market trends
